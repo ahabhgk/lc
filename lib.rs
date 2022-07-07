@@ -9,3 +9,9 @@ pub mod maximum_subarray;
 
 #[path = "./88.merge-sorted-array.rs"]
 pub mod merge_sorted_array;
+
+#[path = "./350.intersection-of-two-arrays-ii.rs"]
+pub mod intersection_of_two_arrays_ii;
+
+#[path = "./121.best-time-to-buy-and-sell-stock.rs"]
+pub mod best_time_to_buy_and_sell_stock;
