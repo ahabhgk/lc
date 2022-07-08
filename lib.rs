@@ -15,3 +15,9 @@ pub mod intersection_of_two_arrays_ii;
 
 #[path = "./121.best-time-to-buy-and-sell-stock.rs"]
 pub mod best_time_to_buy_and_sell_stock;
+
+#[path = "./566.reshape-the-matrix.rs"]
+pub mod reshape_the_matrix;
+
+#[path = "./118.pascals-triangle.rs"]
+pub mod pascals_triangle;
