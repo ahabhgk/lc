@@ -21,3 +21,9 @@ pub mod reshape_the_matrix;
 
 #[path = "./118.pascals-triangle.rs"]
 pub mod pascals_triangle;
+
+#[path = "./36.valid-sudoku.rs"]
+pub mod valid_sudoku;
+
+#[path = "./74.search-a-2-d-matrix.rs"]
+pub mod search_a_2_d_matrix;
