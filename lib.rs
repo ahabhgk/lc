@@ -27,3 +27,12 @@ pub mod valid_sudoku;
 
 #[path = "./74.search-a-2-d-matrix.rs"]
 pub mod search_a_2_d_matrix;
+
+#[path = "./387.first-unique-character-in-a-string.rs"]
+pub mod first_unique_character_in_a_string;
+
+#[path = "./383.ransom-note.rs"]
+pub mod ransom_note;
+
+#[path = "./242.valid-anagram.rs"]
+pub mod valid_anagram;
