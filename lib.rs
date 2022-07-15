@@ -1,3 +1,5 @@
+/// Make rust-analyzer works
+
 #[path = "./1.two-sum.rs"]
 pub mod two_sum;
 
@@ -36,3 +38,9 @@ pub mod ransom_note;
 
 #[path = "./242.valid-anagram.rs"]
 pub mod valid_anagram;
+
+#[path = "./21.merge-two-sorted-lists.rs"]
+pub mod merge_two_sorted_lists;
+
+#[path = "./203.remove-linked-list-elements.rs"]
+pub mod remove_linked_list_elements;
