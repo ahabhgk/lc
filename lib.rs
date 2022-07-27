@@ -44,3 +44,9 @@ pub mod merge_two_sorted_lists;
 
 #[path = "./203.remove-linked-list-elements.rs"]
 pub mod remove_linked_list_elements;
+
+#[path = "./206.reverse-linked-list.rs"]
+pub mod reverse_linked_list;
+
+#[path = "./83.remove-duplicates-from-sorted-list.rs"]
+pub mod remove_duplicates_from_sorted_list;
